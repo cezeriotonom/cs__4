@@ -6,7 +6,7 @@
   "symdev_account_email" : "cezeriotonom@gmail.com",
   "llm_account_email" : "symdev.pro@gmail.com",
   "github_repo_url" : "https://github.com/cezeriotonom/cs__4.git",
-  "build_command" : null,
-  "run_command" : null,
+  "build_command" : "dotnet build",
+  "run_command" : "dotnet run",
   "open_browser_url" : null
 }
