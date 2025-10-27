@@ -9,6 +9,7 @@ public partial class Form1 : Form
 {
     private System.Windows.Forms.Timer gameTimer = default!;
     private Rectangle paddle;
+    private Rectangle ball;
     private List<Rectangle> bricks = default!;
     private int ballDx = 4;
     private int ballDy = -4;
