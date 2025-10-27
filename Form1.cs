@@ -11,8 +11,8 @@ public partial class Form1 : Form
     private Rectangle paddle;
     private Rectangle ball;
     private List<Rectangle> bricks = default!;
-    private int ballDx = 4;
-    private int ballDy = -4;
+    private int ballDx = 8;
+    private int ballDy = -8;
     private int score = 0;
 
     public Form1()
