@@ -1,0 +1,12 @@
+{
+  "project_id" : 713,
+  "project_name" : "cs__4",
+  "language" : "C#",
+  "ai_chat_id" : "1ZPgONOABoSjKJOEO3UCyVvTEP8sCG6dS",
+  "symdev_account_email" : "cezeriotonom@gmail.com",
+  "llm_account_email" : "symdev.pro@gmail.com",
+  "github_repo_url" : "https://github.com/cezeriotonom/cs__4.git",
+  "build_command" : null,
+  "run_command" : null,
+  "open_browser_url" : null
+}
