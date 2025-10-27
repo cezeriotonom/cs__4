@@ -1,0 +1,8 @@
+# IDE specific files
+.idea/
+.vscode/
+
+# Build output
+build/
+dist/
+target/
