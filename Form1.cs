@@ -7,7 +7,7 @@ namespace cs__4;
 
 public partial class Form1 : Form
 {
-    private Timer gameTimer;
+    private System.Windows.Forms.Timer gameTimer;
     private Rectangle paddle;
     private Rectangle ball;
     private List<Rectangle> bricks;
